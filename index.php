@@ -1,10 +1,10 @@
 <?php
 // --- Conexión a SQL Server ---
-$serverName = "tcp:hector-server.database.windows.net,1433";
+$serverName = "tcp:formularioapp.database.windows.net,1433";
 $connectionInfo = [
-    "UID" => "hector",
+    "UID" => "Hector",
     "pwd" => "Mario-12345", // Reemplaza con tu contraseña real
-    "Database" => "formulario_app",
+    "Database" => "formulario",
     "LoginTimeout" => 30,
     "Encrypt" => 1,
     "TrustServerCertificate" => 0
