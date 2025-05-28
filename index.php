@@ -1,5 +1,5 @@
 <?php
-// --- Conexión a SQL Server ---
+// --- Conexión a SQL Server ---dfgfgfgfgfgfgfgfgfgfgfg
 $serverName = "tcp:formularioapp.database.windows.net,1433";
 $connectionInfo = [
     "UID" => "Hector",
